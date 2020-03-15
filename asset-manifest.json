@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Learning-ReactLearning-robofriends/static/css/main.430a84af.chunk.css",
+    "main.js": "/Learning-ReactLearning-robofriends/static/js/main.e830c790.chunk.js",
+    "main.js.map": "/Learning-ReactLearning-robofriends/static/js/main.e830c790.chunk.js.map",
+    "runtime-main.js": "/Learning-ReactLearning-robofriends/static/js/runtime-main.ed324faf.js",
+    "runtime-main.js.map": "/Learning-ReactLearning-robofriends/static/js/runtime-main.ed324faf.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Learning-ReactLearning-robofriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.747dcac3.chunk.js": "/Learning-ReactLearning-robofriends/static/js/2.747dcac3.chunk.js",
+    "static/js/2.747dcac3.chunk.js.map": "/Learning-ReactLearning-robofriends/static/js/2.747dcac3.chunk.js.map",
+    "index.html": "/Learning-ReactLearning-robofriends/index.html",
+    "precache-manifest.3cd3d15b0c5d9fc3144e068c9c6057cd.js": "/Learning-ReactLearning-robofriends/precache-manifest.3cd3d15b0c5d9fc3144e068c9c6057cd.js",
+    "service-worker.js": "/Learning-ReactLearning-robofriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Learning-ReactLearning-robofriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.430a84af.chunk.css.map": "/Learning-ReactLearning-robofriends/static/css/main.430a84af.chunk.css.map",
+    "static/js/2.747dcac3.chunk.js.LICENSE.txt": "/Learning-ReactLearning-robofriends/static/js/2.747dcac3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Learning-ReactLearning-robofriends/static/media/Lobster.9406d0ab.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed324faf.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.747dcac3.chunk.js",
+    "static/css/main.430a84af.chunk.css",
+    "static/js/main.e830c790.chunk.js"
+  ]
+}
