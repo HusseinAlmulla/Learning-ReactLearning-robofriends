@@ -1,0 +1,9 @@
+
+@font-face{
+    font-family: 'Lobster', cursive;;
+    src: local('Lobster'), url('Lobster.ttf').format('ttf');
+}
+h1 {
+    font-family: 'Lobster', cursive;;
+    background-color: rgb(196, 241, 255);
+}
